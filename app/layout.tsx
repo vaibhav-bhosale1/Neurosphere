@@ -10,7 +10,7 @@ const inter = Inter({
 })
 
 export const metadata: Metadata = {
-  title: "AeroVision Pro - Advanced Mixed Reality",
+  title: "NeuroSphere",
   description: "Experience the future with AeroVision Pro. Titanium design meets cutting-edge technology.",
   keywords: "mixed reality, AR, VR, titanium, technology, innovation",
   openGraph: {
